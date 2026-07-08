@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "A Minecraft mod that lets you shapeshift into blocks and entities by crouching and hitting them",
+    "name": "Shapeshifter Mod",
+    "uuid": "12345678-1234-1234-1234-123456789abc",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "description": "Shapeshifter Behavior Pack",
+      "type": "behaviors",
+      "uuid": "87654321-4321-4321-4321-abcdefgh1234",
+      "version": [1, 0, 0]
+    }
+  ]
+}
