@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Shapeshifter Resource Pack",
+    "name": "Shapeshifter Mod",
+    "uuid": "abcdefgh-5678-5678-5678-123456789xyz",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "description": "Shapeshifter Resource Pack",
+      "type": "resources",
+      "uuid": "xyz87654-8765-8765-8765-defghijklmno",
+      "version": [1, 0, 0]
+    }
+  ]
+}
